@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="go_to_2">Go to activity 2</string>
+    <string name="go_to_3">Go to activity 3</string>
+    <string name="hello_3">activity 3</string>
+    <string name="hello_2">Activity 2</string>
+    <string name="change_color">Push me! </string>
+</resources>
